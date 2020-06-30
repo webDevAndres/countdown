@@ -7,6 +7,6 @@
 
 ## Merging Checklist
 
-- [] PR approved
-- [] All checks pass
-- [] Manual tests
+- [ ] PR approved
+- [ ] All checks pass
+- [ ] Manual tests
