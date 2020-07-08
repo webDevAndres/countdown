@@ -36,7 +36,6 @@ var calculateDays = function () {
     var today = new Date();
     var oneDay = 24*60*60*1000; // hours*min*seconds*ms
     var days = (date.getTime() - today.getTime()) / oneDay;
-    console.log(date.getTime(), today.getTime());
     days = Math.ceil(days);
     
     if (days == 0) {
